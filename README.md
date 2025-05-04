@@ -15,7 +15,7 @@ Python implementations of heuristic algorithms and optimization problems.
 
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+make install
 
 # Run greedy coin algorithm
 ./greedy_coin.py 0.99
